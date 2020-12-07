@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define N 5 //numero de alunos
-#define A 6 //numero de questões+1
+#define A 51 //numero de questões+1
 
 struct candidato{
     int numCandidatos;
